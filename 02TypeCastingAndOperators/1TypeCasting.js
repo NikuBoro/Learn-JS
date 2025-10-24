@@ -14,7 +14,6 @@ console.log(res);
 let a = "100" + 23;
 console.log(a) //10023
 console.log(typeof(a)); //string
-
 let a1 = 20 + 30 + '400';
 console.log(a1); //50400
 

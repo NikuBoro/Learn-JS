@@ -8,3 +8,4 @@ const max = (a, b) => {
 
 let result = max(3, 4);
 console.log(result);
+
