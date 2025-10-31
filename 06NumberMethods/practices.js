@@ -18,3 +18,4 @@ console.log(typeof(a));
 
 let b = false;
 console.log(Number(b));
+
